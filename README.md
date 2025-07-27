@@ -1,5 +1,9 @@
-## Hi there 👋
+## Donovan Clarke
 
+Hi, i'm Donovan - a Senior Frontend Engineer @Runpod. Currently trying to understand AI 😅, and making wonderful experiences for our users. 
+
+In my free time I like to touch grass, play video games, and work on my BMW E30.
+ 
 <!--
 **donovanclarke/donovanclarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
